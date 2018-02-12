@@ -1,6 +1,6 @@
 // RGBW (Red Green Blue White Neo-Pixel starter code
 // 16 LEDS with no loop inside of void loop()
-// CW Coleman 170413
+// DC Chen 180206
 
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
